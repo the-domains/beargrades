@@ -1,0 +1,28 @@
+name: beargrades
+favicon: null
+layout_spectrum: 0.1510046198964119
+typography_spectrum: 0.34839452989399433
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.14831459592096508
+  lightness: 0.9861628215294331
+  saturation: 0.14810518361628056
+  rhythmicContrast: 0.5392888174392283
+purpose: []
